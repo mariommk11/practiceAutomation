@@ -1,5 +1,4 @@
-const { it } = require("mocha")
-import registerPage from '../pageObject/register'
+import registerPage from '../../support/pageObject/register'
 
 describe('hello google',() => {   
 
